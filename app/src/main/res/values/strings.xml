@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XarantPreferencs</string>
+    <string name="prefs_login">prefs_login</string>
+    <string name="prefs_Email">prefs_Email</string>
+    <string name="prefs_pass">prefs_pass</string>
+    <string name="prefs_switch">prefs_switch</string>
+
+</resources>
