@@ -31,41 +31,41 @@
         tools:layout_editor_absoluteY="441dp" />
 
     <com.google.android.material.textfield.TextInputLayout
-        android:layout_width="409dp"
-        android:layout_height="wrap_content"
+        android:layout_width="599dp"
+        android:layout_height="64dp"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="229dp">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/cadastroNome"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="598dp"
+            android:layout_height="52dp"
             android:hint="hint" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
-        android:layout_width="409dp"
-        android:layout_height="wrap_content"
+        android:layout_width="602dp"
+        android:layout_height="57dp"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="354dp">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/cadastroEmail"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="601dp"
+            android:layout_height="50dp"
             android:hint="hint" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
-        android:layout_width="409dp"
-        android:layout_height="wrap_content"
+        android:layout_width="598dp"
+        android:layout_height="61dp"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="492dp">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/cadastroSenha"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="598dp"
+            android:layout_height="54dp"
             android:hint="hint" />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -73,7 +73,7 @@
         android:id="@+id/btnCadastrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="cadastrar"
         tools:layout_editor_absoluteX="39dp"
         tools:layout_editor_absoluteY="603dp" />
 
@@ -82,8 +82,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="voltar"
-        tools:layout_editor_absoluteX="262dp"
-        tools:layout_editor_absoluteY="600dp" />
+        tools:layout_editor_absoluteX="452dp"
+        tools:layout_editor_absoluteY="603dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
